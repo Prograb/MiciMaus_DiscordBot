@@ -31,7 +31,7 @@ async def ban(ctx, user: discord.Member, *, reason="No reason provided"):
     await ctx.channel.send(embed=ban)
     await user.send(embed=ban)
 
-
+#made by vonor22#7289
 #C:\ffmpeg\bin
 
 @bot.command(name="earrape")
