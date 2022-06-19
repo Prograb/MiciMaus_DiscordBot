@@ -15,6 +15,5 @@ def process(url):
 
     #----------------------convert video---------------------------------------
     import moviepy.editor as mp
-    import os
     clip = mp.VideoFileClip("./songs/" + youtube.streams[0].default_filename)
     clip.audio.write_audiofile("song.mp3")
