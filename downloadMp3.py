@@ -1,6 +1,3 @@
-import time
-
-
 def process(url):
     #-------------------download video----------------------------------------
     import pytube
