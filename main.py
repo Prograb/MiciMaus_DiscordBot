@@ -2,7 +2,7 @@ import random
 import asyncio
 import discord
 from discord.ext import commands
-import youtube_dl, os, downloadMp3
+import os, downloadMp3
 TOKEN = "OTE0MjM1NzgzNjAxMzMyMjU1.YaKGbA.RdzOyjd88phmiQgx5_C994mVAps"
 
 #TODO find a way to increase video download speeds
