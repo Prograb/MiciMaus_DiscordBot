@@ -3,7 +3,7 @@ import asyncio
 import discord
 from discord.ext import commands
 import os, downloadMp3
-TOKEN = "OTE0MjM1NzgzNjAxMzMyMjU1.YaKGbA.RdzOyjd88phmiQgx5_C994mVAps"
+TOKEN = "secret"
 
 #TODO find a way to increase video download speeds
 
